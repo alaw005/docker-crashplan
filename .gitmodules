@@ -1,0 +1,3 @@
+[submodule "docker-crashplan"]
+	path = docker-crashplan
+	url = https://github.com/JrCs/docker-crashplan.git
